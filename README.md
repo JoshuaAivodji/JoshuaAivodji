@@ -2,7 +2,7 @@
 
 🎯 **Mobile Developer | Flutter Enthusiast | Problem Solver**  
 
-Je suis un développeur mobile passionné, spécialisé dans **Flutter**. Je transforme des idées en applications modernes, rapides et efficaces. Toujours à la recherche de nouvelles opportunités pour innover et apprendre, je suis aussi motivé par les défis techniques qui permettent d'améliorer l'expérience utilisateur.
+Je suis un développeur mobile passionné. Je transforme des idées en applications modernes, rapides et efficaces. Toujours à la recherche de nouvelles opportunités pour innover et apprendre, je suis aussi motivé par les défis techniques qui permettent d'améliorer l'expérience utilisateur.
 
 ---
 
