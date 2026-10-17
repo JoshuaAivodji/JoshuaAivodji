@@ -1,54 +1,52 @@
-<p align="center"><b>Français</b> · <a href="README.en.md">English</a> · <a href="README.es.md">Español</a></p>
+<p align="center"><sub><b>Français</b> · <a href="README.en.md">English</a> · <a href="README.es.md">Español</a></sub></p>
 
-# Joshua AIVODJI
+<h1 align="center">Joshua AIVODJI</h1>
 
-**Senior Mobile Engineer · 9+ ans · Flutter, Android natif & iOS · Clean Architecture, DDD · AI-driven development**
+<p align="center"><b>Senior Mobile Engineer · Flutter, Android natif & iOS</b><br/>9+ ans · Clean Architecture, DDD · AI-driven development · Cotonou, Bénin</p>
 
-Je conçois des applications pensées pour durer : solides, testées, faciles à faire évoluer. L'IA est au cœur de ma façon de construire, et des produits que je livre.
+<p align="center">
+  <a href="https://linkedin.com/in/josué-aivodji-aaa607173"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/DaltJoe"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+  <a href="mailto:joshuaaivodji@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-📍 Cotonou, Bénin
+<p align="center">Je conçois des applications pensées pour durer : solides, testées, faciles à faire évoluer.<br/>L'IA est au cœur de ma façon de construire, et des produits que je livre.</p>
 
-## Open source
+<br/>
 
-### [ddd_value_objects](https://github.com/JoshuaAivodji/ddd_value_objects)
-[![pub package](https://img.shields.io/pub/v/ddd_value_objects.svg)](https://pub.dev/packages/ddd_value_objects)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/flutter/flutter-original.svg" width="32" height="32" alt="Flutter" title="Flutter"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/dart/dart-original.svg" width="32" height="32" alt="Dart" title="Dart"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/kotlin/kotlin-original.svg" width="32" height="32" alt="Kotlin" title="Kotlin"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/jetpackcompose/jetpackcompose-original.svg" width="32" height="32" alt="Jetpack Compose" title="Jetpack Compose"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/swift/swift-original.svg" width="32" height="32" alt="Swift" title="Swift"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="32" height="32" alt="Python" title="Python"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/django/092E20/ffffff" width="32" height="32" alt="Django" title="Django"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" width="32" height="32" alt="Java" title="Java"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" width="32" height="32" alt="PostgreSQL" title="PostgreSQL"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/redis/redis-original.svg" width="32" height="32" alt="Redis" title="Redis"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/firebase/firebase-original.svg" width="32" height="32" alt="Firebase" title="Firebase"/>
+</p>
 
-Des Value Objects prêts à l'emploi pour le Domain-Driven Design en Dart : email, mot de passe, nom, âge, URL, nom d'utilisateur. Immuables, validés avec `Either`, messages d'erreur en français et en anglais, plus de 159 tests.
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" width="32" height="32" alt="TypeScript" title="TypeScript"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" width="32" height="32" alt="React" title="React"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000/ffffff" width="32" height="32" alt="Next.js" title="Next.js"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/tailwindcss/tailwindcss-original.svg" width="32" height="32" alt="Tailwind CSS" title="Tailwind CSS"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" width="32" height="32" alt="Docker" title="Docker"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/githubactions/githubactions-original.svg" width="32" height="32" alt="GitHub Actions" title="GitHub Actions"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/gitlab/gitlab-original.svg" width="32" height="32" alt="GitLab CI" title="GitLab CI"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/codemagic/_/ffffff" width="32" height="32" alt="Codemagic" title="Codemagic"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/coolify" width="32" height="32" alt="Coolify" title="Coolify"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/figma/figma-original.svg" width="32" height="32" alt="Figma" title="Figma"/>
+</p>
 
-### [phone_input_plus](https://github.com/JoshuaAivodji/phone_input_plus)
-[![pub package](https://img.shields.io/pub/v/phone_input_plus.svg)](https://pub.dev/packages/phone_input_plus)
+<br/>
 
-Un champ de saisie téléphonique pour Flutter : détection automatique du pays, formatage en temps réel, validation propre à chaque pays. Il couvre les 52 pays africains et fonctionne partout dans le monde.
+<h3 align="center">Open source</h3>
 
-## Comment je travaille
-
-- **L'architecture d'abord.** Clean Architecture, DDD et SOLID sur chaque projet, quelle que soit sa taille.
-- **Les tests font partie du travail.** Une fonctionnalité est terminée quand elle est testée, pas avant.
-- **Livraison continue.** CI/CD, environnements de développement et de production séparés, revue de code sur chaque changement.
-- **L'IA, dans le code comme dans le produit.** Je l'utilise pour livrer plus vite sans rien céder sur la qualité, et je l'intègre dans les applications pour créer des fonctionnalités intelligentes.
-
-## Stack
-
-**Mobile**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-
-**Backend & Web**
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-**CI/CD & Outils**
-![CodeMagic](https://img.shields.io/badge/CodeMagic-2C2E3B?style=for-the-badge&logo=codemagic&logoColor=white)
-![Coolify](https://img.shields.io/badge/Coolify-6B16ED?style=for-the-badge&logo=coolify&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-## Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josué-aivodji-aaa607173)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DaltJoe)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshuaaivodji@gmail.com)
+<p align="center">
+  <a href="https://github.com/JoshuaAivodji/ddd_value_objects"><b>ddd_value_objects</b></a> · Value Objects DDD pour Dart, 159+ tests
+  <br/>
+  <a href="https://github.com/JoshuaAivodji/phone_input_plus"><b>phone_input_plus</b></a> · Champ téléphone Flutter, 52 pays africains
+</p>
